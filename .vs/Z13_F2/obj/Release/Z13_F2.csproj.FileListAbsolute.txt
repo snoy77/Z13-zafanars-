@@ -1,0 +1,9 @@
+C:\Users\Сноу\Desktop\h112\Деятельность\Программы\Заря\Заря-13 (Измена рабочего стола)\Form 2\Z13_F2\Z13_F2\bin\Release\Z13_F2.exe.config
+C:\Users\Сноу\Desktop\h112\Деятельность\Программы\Заря\Заря-13 (Измена рабочего стола)\Form 2\Z13_F2\Z13_F2\bin\Release\Z13_F2.exe
+C:\Users\Сноу\Desktop\h112\Деятельность\Программы\Заря\Заря-13 (Измена рабочего стола)\Form 2\Z13_F2\Z13_F2\bin\Release\Z13_F2.pdb
+C:\Users\Сноу\Desktop\h112\Деятельность\Программы\Заря\Заря-13 (Измена рабочего стола)\Form 2\Z13_F2\Z13_F2\obj\Release\Z13_F2.Form1.resources
+C:\Users\Сноу\Desktop\h112\Деятельность\Программы\Заря\Заря-13 (Измена рабочего стола)\Form 2\Z13_F2\Z13_F2\obj\Release\Z13_F2.Properties.Resources.resources
+C:\Users\Сноу\Desktop\h112\Деятельность\Программы\Заря\Заря-13 (Измена рабочего стола)\Form 2\Z13_F2\Z13_F2\obj\Release\Z13_F2.csproj.GenerateResource.cache
+C:\Users\Сноу\Desktop\h112\Деятельность\Программы\Заря\Заря-13 (Измена рабочего стола)\Form 2\Z13_F2\Z13_F2\obj\Release\Z13_F2.csproj.CoreCompileInputs.cache
+C:\Users\Сноу\Desktop\h112\Деятельность\Программы\Заря\Заря-13 (Измена рабочего стола)\Form 2\Z13_F2\Z13_F2\obj\Release\Z13_F2.exe
+C:\Users\Сноу\Desktop\h112\Деятельность\Программы\Заря\Заря-13 (Измена рабочего стола)\Form 2\Z13_F2\Z13_F2\obj\Release\Z13_F2.pdb
